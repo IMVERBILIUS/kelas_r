@@ -1,0 +1,31 @@
+body{
+    background: #ddd;
+}
+
+.container-box{
+    background: #fff;
+    width: 400px;
+    height: 350px;
+    margin: 0 auto;
+    margin-top: 100px;
+    padding: 30px;
+}
+
+.form-control{
+    width: 100%;
+    padding: 12px;
+    border: 1px solid;
+    border-radius: 4px;
+    box-sizing: border-box;
+    margin-top: 10px;
+}
+
+button{
+    width: 100%;
+    background: #4CAF50;
+    color: #fff;
+    padding: 12px 20px;
+    border-radius: 4px;
+    cursor: pointer;
+    border: none;
+}
